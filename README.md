@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Sai Kanduri</h1>
+<h1 align="center">Hi 👋, I'm Abhinav Kanduri</h1>
 <h3 align="center">Dedicated, detail-oriented Data Researcher/Analyst with practical experience and highly regarded utilizing technology to complete process validation and business needs analysis. Exceptional interpersonal and analytical skills, with the ability to examine and understand unique client requirements and translate them into actionable project plans.</h3>
 
 - 🔭 I’m currently working on [Food Recommendation System](https://github.com/Abhinav-kanduri/-Recommendationsystem.git)
