@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13623
-Fork on GitHub
-3596
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Abhinav Sai Kanduri</h1>
 <h3 align="center">Dedicated, detail-oriented Data Researcher/Analyst with practical experience and highly regarded utilizing technology to complete process validation and business needs analysis. Exceptional interpersonal and analytical skills, with the ability to examine and understand unique client requirements and translate them into actionable project plans.</h3>
 
