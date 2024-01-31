@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kanduri</h1>
-<h3 align="center">Dedicated, detail-oriented Data Researcher/Analyst with practical experience and highly regarded utilizing technology to complete process validation and business needs analysis. Exceptional interpersonal and analytical skills, with the ability to examine and understand unique client requirements and translate them into actionable project plans.</h3>
+<h3 align="center">Hi I'm Abhinav Kanduri, Dedicated, detail-oriented with 4+ years specializing in Data Analysis, Machine learning models, Natural Language Processing, and ETL infrastructure experienced and highly regarded utilizing technology to complete process validation and business needs analysis Currently leading projects to extract insights from text data. Enthusiastic about integrating General AI (Gen AI) and Language Model (LLM) for advanced analytics. Expertise in data warehousing, business intelligence reporting, and diverse machine learning techniques with Natural Language Process.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-kanduri&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-kanduri" /> </p>
 
