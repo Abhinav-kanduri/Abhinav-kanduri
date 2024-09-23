@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kanduri</h1>
-<h3 align="center">Hi I'm Abhinav Kanduri, Dedicated, detail-oriented with 4+ years specializing in Data Analysis, Machine learning models, Neural Networks, Natural Language Processing, and ETL infrastructure experienced using Azure Databricks and highly regarded utilizing technology to complete process validation and business needs analysis. Currently leading projects to extract insights from text data using NLP techniques. Enthusiastic about integrating General AI (Gen AI) and Large Language Model (LLM), Lang chain, BERT, Hugging face frameworks for advanced analytics. Expertise in data warehousing, business intelligence reporting, and diverse machine learning models with Natural Language Process techniques.</h3>
+<h3 align="center">Hi I'm Abhinav Kanduri, Dedicated, detail-oriented specializing in Data Analysis, Machine learning models, Neural Networks, Natural Language Processing, and ETL infrastructure experienced using Azure Databricks and highly regarded utilizing technology to complete process validation and business needs analysis. Currently leading projects to extract insights from text data using NLP techniques. Enthusiastic about integrating General AI (Gen AI) and Large Language Model (LLM), Lang chain, BERT, Hugging face frameworks for advanced analytics. Expertise in data warehousing, business intelligence reporting, and diverse machine learning models with Natural Language Process techniques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-kanduri&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-kanduri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav-kanduri" alt="abhinav-kanduri" /></a> </p>
-
-- 🔭 I’m currently working on [Food Recommendation System](https://github.com/Abhinav-kanduri/-Recommendationsystem.git)
-
-- 🌱 I’m currently learning **Azure Data Engineer**
-
-- 👯 I’m looking to collaborate on **Data Science projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abhinav-kanduri](https://github.com/Abhinav-kanduri)
-
-- 📫 How to reach me **abhinavkanduri92.ds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
