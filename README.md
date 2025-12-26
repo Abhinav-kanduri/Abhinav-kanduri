@@ -1,24 +1,181 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kanduri</h1>
-<h3 align="center">Hi I'm Abhinav Kanduri, Dedicated, detail-oriented specializing in Data Analysis, Machine learning models, Neural Networks, Natural Language Processing, and ETL infrastructure experienced using Azure Databricks and highly regarded utilizing technology to complete process validation and business needs analysis. Currently leading projects to extract insights from text data using NLP techniques. Enthusiastic about integrating General AI (Gen AI) and Large Language Model (LLM), Lang chain, BERT, Hugging face frameworks for advanced analytics. Expertise in data warehousing, business intelligence reporting, and diverse machine learning models with Natural Language Process techniques.</h3>
+<h1 align="center">Hi 👋, I'm Abhinav Sai Kanduri</h1>
+<h3 align="center">
+Applied Generative AI & LLM Engineer | RAG • LLMOps • AI System Design
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-kanduri&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-kanduri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav-kanduri" alt="abhinav-kanduri" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-kanduri-1b638320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-kanduri-1b638320b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/abhinavkanduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavkanduri" height="30" width="40" /></a>
-<a href="https://medium.com/@abhinavkanduri92.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinavkanduri92.ds" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhinavkanduri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhinavkanduri1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhinav-kanduri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhinav-kanduri/" height="30" width="40" /></a>
+<p align="center">
+I build <b>production-grade Generative AI systems</b> with a strong focus on  
+<b>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LLMOps</b>,  
+and <b>scalable AI system design</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+My work emphasizes <b>reliability, evaluation, cost-efficiency, and governance</b>  
+over demos — solving real-world enterprise problems using AI.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-kanduri&show_icons=true&locale=en&layout=compact" alt="abhinav-kanduri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav-kanduri&show_icons=true&locale=en" alt="abhinav-kanduri" /></p>
+## 🔍 What I Do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-kanduri&" alt="abhinav-kanduri" /></p>
+### 🧠 Large Language Models (LLMs)
+- Design and deploy **LLM-powered applications** for enterprise use cases  
+- Work with **SLMs vs LLMs**, prompt strategies, adapters, and fine-tuning approaches  
+- Address **hallucination, inconsistency, and determinism** challenges in production
+
+### 🔗 Retrieval-Augmented Generation (RAG)
+- Build **end-to-end RAG pipelines** (ingestion → chunking → embedding → retrieval → generation)
+- Optimize **retrieval quality** (semantic chunking, hybrid search, reranking)
+- Evaluate RAG systems using **groundedness, faithfulness, and relevance metrics**
+- Design RAG systems for **freshness, traceability, and explainability**
+
+### ⚙️ LLMOps / MLOps
+- Productionize LLM systems with:
+  - Versioned prompts & datasets
+  - Continuous evaluation & regression testing
+  - Cost, latency, and throughput optimization
+- Implement **monitoring for drift, quality decay, and prompt regressions**
+- Build **CI/CD pipelines for LLM-based systems**
+
+### 🏗️ AI System Design
+- Architect **scalable, cloud-native AI platforms**
+- Design systems for:
+  - High availability & fault tolerance
+  - Multi-tenant enterprise workloads
+  - Secure model access & governance
+- Apply distributed systems principles to AI workloads
+
+### 🧩 Problem Solving & OSS Mindset
+- Break ambiguous business problems into **measurable ML / AI objectives**
+- Build **reusable abstractions**, not one-off solutions
+- Actively contribute through:
+  - Open-source projects
+  - Reference architectures
+  - Technical write-ups & design docs
+
+---
+
+## 🚀 Current Focus Areas
+- Production RAG reference architectures
+- LLM evaluation & reliability engineering
+- Agentic and multi-step reasoning systems
+- Cost-aware LLM serving & caching strategies
+- Enterprise GenAI governance patterns
+
+---
+
+## 🧑‍💻 Open-Source & Community
+- Building **open-source blueprints** for production AI systems  
+- Extracting **reusable components** from real-world enterprise pipelines  
+- Sharing learnings through code, documentation, and technical writing  
+
+> *“Open-source is where production lessons become community knowledge.”*
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinav-kanduri-1b638320b/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://medium.com/@abhinavkanduri92.ds" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+- **Languages**
+  - Python, Java, Scala, SQL, Bash
+
+- **ML / AI**
+  - PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM
+
+- **NLP / LLM**
+  - Transformers, BERT, Sentence Transformers, Tokenizers
+
+- **Generative AI**
+  - LangChain
+  - LangGraph
+  - LlamaIndex
+  - Hugging Face (Transformers, Datasets, PEFT)
+  - OpenAI / Azure OpenAI SDKs
+  - Anthropic Claude SDKs
+  - Google Gemini SDKs
+  - Embeddings & Vector Databases
+  - Prompt Engineering Frameworks
+
+- **Agentic Frameworks**
+  - LangGraph
+  - AutoGen
+  - CrewAI
+  - Haystack Agents
+
+- **LLM Inference, performance & Serving**
+  - vLLM
+  - Triton Inference Server
+  - Ray Serve
+  - Text Generation Inference (TGI)
+  
+- **LLM Evaluation & Observability**
+  - RAGAS
+  - TruLens
+  - Promptfoo
+  - OpenTelemetry (LLM traces)
+
+- **RAG Stack**
+  - FAISS, ChromaDB, Pinecone  
+  - Hybrid Search, Reranking
+
+- **LLMOps / MLOps**
+  - MLflow, Weights & Biases  
+  - Prompt Versioning, Model Evaluation
+
+- **Serving & APIs**
+  - FastAPI, Flask, REST, gRPC
+
+- **Infra & Streaming**
+  - Docker, Kubernetes, Kafka, Spark
+
+- **Cloud Platforms**
+  - AWS, Azure, Google Cloud
+
+- **Azure Ecosystem**
+  - Azure Databricks  
+  - Azure Cognitive Services  
+  - Azure OpenAI  
+  - Azure Data Factory
+
+- **Data Platforms**
+  - PostgreSQL, MongoDB, Redis  
+  - BigQuery, Databricks Lakehouse
+
+- **DevOps & CI/CD**
+  - Git, GitHub Actions, Jenkins
+
+- **Monitoring & Observability**
+  - Prometheus, Grafana  
+  - Centralized Logging & Alerting
+
+
+---
+
+## 📈 GitHub Activity
+<p>
+
+</p>
+
+---
+
+## 📌 Open To
+- Open-source collaboration (LLMs, RAG, LLMOps)
+- Applied research & system design problems
+- High-impact AI platform engineering
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhinav-kanduri&label=Profile%20views&color=0e75b6)
+
