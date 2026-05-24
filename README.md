@@ -179,3 +179,10 @@ over demos — solving real-world enterprise problems using AI.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinav-kanduri&label=Profile%20views&color=0e75b6)
 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhinav-kanduri-a943b9353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Kanduri-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
