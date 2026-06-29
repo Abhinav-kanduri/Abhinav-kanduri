@@ -18,13 +18,19 @@ research opportunities.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Company-American%20Express-006FCF?style=for-the-badge&logo=americanexpress&logoColor=white" alt="American Express" />
+  <img src="https://img.shields.io/badge/Location-United%20States-2F855A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="United States" />
+  <img src="https://img.shields.io/badge/Open%20to-Hiring%20%26%20Collaboration-success?style=for-the-badge" alt="Available for hire" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abhinav-kanduri-a943b9353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Kanduri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@abhinavkanduri92.ds" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Abhinav%20Kanduri-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abhinav-kanduri&label=Profile%20views&color=0a66c2&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-kanduri&label=Profile%20views&color=0a66c2&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -174,18 +180,18 @@ research opportunities.
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinav-kanduri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=abhinav-kanduri&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-kanduri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Abhinav-kanduri&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-kanduri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-kanduri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-kanduri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-kanduri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 </p>
 
 ---
