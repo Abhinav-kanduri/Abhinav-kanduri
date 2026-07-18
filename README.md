@@ -176,24 +176,6 @@ research opportunities.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
-
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav-kanduri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Abhinav-kanduri&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-kanduri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-kanduri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-</p>
-
 ---
 
 ## Open To
